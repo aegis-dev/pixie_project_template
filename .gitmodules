@@ -1,0 +1,3 @@
+[submodule "pixie"]
+	path = pixie
+	url = git@github.com:aegis-dev/pixie.git
